@@ -1,0 +1,7 @@
+.idea/*
+venv/*
+flask_app/__pycache__/
+terraform/.terraform
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/lambdas/triggered_by_queue.zip
