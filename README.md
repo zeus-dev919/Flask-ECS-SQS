@@ -38,6 +38,10 @@ terraform init
 ```buildoutcfg
 terraform apply
 ```
+- Destroy application
+```buildoutcfg
+terraform destroy
+```
 
 **NOTE**
 
